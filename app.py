@@ -1,6 +1,6 @@
 import streamlit as st
-from resume_parser import extract_text_from_pdf, clean_text
-from skill_matcher import extract_skills, calculate_similarity, find_missing_skills
+from src.resume_parser import extract_text_from_pdf, clean_text
+from src.skill_matcher import extract_skills, calculate_similarity, find_missing_skills
 from ai_suggestions import generate_suggestions
 
 # Page Configuration

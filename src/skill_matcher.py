@@ -1,6 +1,6 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from utils import load_spacy_model
+from src.utils import load_spacy_model
 
 # A predefined list of common tech and soft skills for matching
 COMMON_SKILLS = {

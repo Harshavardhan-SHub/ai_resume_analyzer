@@ -10,12 +10,6 @@
 - [x] **Missing Skills Detection**: Clearly lists required skills that are absent from the resume.
 - [x] **AI Suggestions**: Provides dynamic tips to improve the resume based on the score and missing keywords.
 
-## Application Demo
-
-Here is a complete recording of the browser subagent testing the application end-to-end (uploading a test resume, pasting a job description, and viewing the results):
-
-![Application Test Demo](C:/Users/HARSHA/.gemini/antigravity/brain/26fb104d-522f-445c-a480-f0740e5db787/resume_analyzer_test_1773124952526.webp)
-
 ### Test Results Summary:
 
 When evaluating the sample resume against a DevOps/AI Job Description:
